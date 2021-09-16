@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530306830646",
+    "project_id": "practika-5ba6d",
+    "storage_bucket": "practika-5ba6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530306830646:android:554751525a41588a076397",
+        "android_client_info": {
+          "package_name": "com.huawei.practika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530306830646-vjanl3cbqh3egu8v1jf5u202kgi3k7of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQXiKzSVItz8ScJqw6xuMGEPAu5H5cttE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530306830646-vjanl3cbqh3egu8v1jf5u202kgi3k7of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
